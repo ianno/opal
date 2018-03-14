@@ -9,7 +9,7 @@ from model import Model
 #import cv2
 import matplotlib.image as mpimg
 
-graph_path = 'canapest-multi-model.meta'
+graph_path = 'spacebales-multi-model.meta'
 checkpoints_path = './'
 
 def run_demo():

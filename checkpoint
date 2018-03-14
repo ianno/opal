@@ -1,2 +1,2 @@
-model_checkpoint_path: "canapest-multi-model"
-all_model_checkpoint_paths: "canapest-multi-model"
+model_checkpoint_path: "spacebales-multi-model"
+all_model_checkpoint_paths: "spacebales-multi-model"
